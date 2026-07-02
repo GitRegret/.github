@@ -6,6 +6,8 @@
 
 > Wall of shame of abandoned cool projects.
 
-Some repos were ideas. Some were warnings. A few were both.
+<p align="center">
+  <img src="https://media.giphy.com/media/3oFzlWBadh6GNv3rdS/giphy.gif" width="360" alt="Blue screen of death computer" />
+</p>
 
-If it was cool enough to remember and cursed enough to avoid maintaining, it probably lives here.
+Some repos were ideas. Some were warnings. A few booted once, displayed something blue, and were never questioned again.
